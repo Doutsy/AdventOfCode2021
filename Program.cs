@@ -1,7 +1,4 @@
-﻿using System;
-using System.IO;
-
-namespace AOC2021
+﻿namespace AOC2021
 {
     class Program
     {
@@ -9,6 +6,8 @@ namespace AOC2021
         {
             Day01.Exec(@"C:\Users\jherr\Desktop\AdventOfCode2021\AOC2021\AOC2021\Inputs\01.txt", 1);
             Day01.Exec(@"C:\Users\jherr\Desktop\AdventOfCode2021\AOC2021\AOC2021\Inputs\01.txt", 2);
+            Day02.Exec(@"C:\Users\jherr\Desktop\AdventOfCode2021\AOC2021\AOC2021\Inputs\02.txt", 1);
+            Day02.Exec(@"C:\Users\jherr\Desktop\AdventOfCode2021\AOC2021\AOC2021\Inputs\02.txt", 2);
         }
     }
 }
